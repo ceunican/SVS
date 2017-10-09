@@ -2,6 +2,8 @@
 
 # Lecture Notes of course  [M1689](http://web.unican.es/departamentos/macc/estudios/detalle-asignatura?c=M1689&p=170&a=2016)
 
+## Schedule
+![](sched.png)
 
 ## Lecture Notes
 * Course Introduction [Slides](01-intro.pdf)
