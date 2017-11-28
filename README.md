@@ -19,7 +19,7 @@
 * Performance Evaluation [Slides](La01-performance.pdf)
 * Xen [Slides](Lab02-Xen.pdf)
 * Xen [Slides](Lab03-Optimize.pdf)
-* Containers and Public Clouds [Slides](La04-containers.pdf)
+* Containers and Public Clouds [Slides](Lab04-containers.pdf)
 
 ## Reference
 * J. Smith, R. Nair, [Virtual Machines: Versatile Platforms for Systems and Processes](https://www.amazon.es/Virtual-Machines-Versatile-Platforms-Architecture/dp/1558609105)
