@@ -21,6 +21,10 @@
 * Xen [Slides](Lab03-Optimize.pdf)
 * Containers and Public Clouds [Slides](Lab04-containers.pdf)
 
+## Exams
+* [Feb 2016](feb16.pdf)
+* [Feb 2017](feb17.pdf)
+
 ## Reference
 * J. Smith, R. Nair, [Virtual Machines: Versatile Platforms for Systems and Processes](https://www.amazon.es/Virtual-Machines-Versatile-Platforms-Architecture/dp/1558609105)
 * C. Takemura, L.Crawford [The Book of Xen: A Practical Guide for the System Administrator](https://www.amazon.es/Book-Xen-Practical-System-Administrator/dp/1593271867)
