@@ -21,7 +21,7 @@
 * Xen [Slides](Lab03-Optimize.pdf)
 * Containers and Public Clouds [Slides](Lab04-containers.pdf)
 
-## Exams
+## Exams (Spanish)
 * [Feb 2016](feb16.pdf)
 * [Feb 2017](feb17.pdf)
 
