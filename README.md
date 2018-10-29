@@ -16,7 +16,7 @@
 * Public Clouds [Slides](08-PublicClouds.pdf)
 
 ## Labs
-* Performance Evaluation [Slides](La01-performance.pdf)
+* Performance Evaluation [Slides](Lab01-performance.pdf)
 * Xen [Slides](Lab02-Xen.pdf)
 * Xen [Slides](Lab03-Optimize.pdf)
 * Containers and Public Clouds [Slides](Lab04-containers.pdf)
